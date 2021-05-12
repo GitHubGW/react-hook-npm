@@ -1,0 +1,29 @@
+{
+  "name": "@gitgw/use-before-leave",
+  "version": "1.0.2",
+  "description": "React Hook to execute a function when the mouse leaves the page. Useful to show a popup or for analytics.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubGW/react-hook-npm.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hooks",
+    "beforeleave",
+    "usebeforeleave",
+    "leave",
+    "mouseleave"
+  ],
+  "author": "GW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitHubGW/react-hook-npm/issues"
+  },
+  "homepage": "https://github.com/GitHubGW/react-hook-npm#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
