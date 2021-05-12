@@ -1,0 +1,27 @@
+{
+  "name": "@gitgw/use-input",
+  "version": "1.0.2",
+  "description": "React Hook to check the number of characters in input.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubGW/react-hook-npm.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hooks",
+    "input",
+    "useinput"
+  ],
+  "author": "GW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitHubGW/react-hook-npm/issues"
+  },
+  "homepage": "https://github.com/GitHubGW/react-hook-npm#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
