@@ -1,6 +1,6 @@
 {
   "name": "@gitgw/use-network",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to listen when the user goes online or offline.",
   "main": "index.js",
   "repository": {
