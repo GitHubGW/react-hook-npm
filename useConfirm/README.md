@@ -25,7 +25,7 @@ function App() {
   
   return (
     <div className="App">
-      <button onClick={confirmAction}>Delete the world</button>;
+      <button onClick={confirmAction}>confirmAction</button>;
     </div>
   );
 }
