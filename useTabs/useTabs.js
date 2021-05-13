@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const useTabs = (initialIndex, sections) => {
+export const useTabs = (initialIndex, sections) => {
 
   const [currentIndex, setCurrentIndex] = useState(initialIndex);
 
