@@ -1,6 +1,6 @@
 {
   "name": "@gitgw/use-fade-in",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to fade in any element.",
   "main": "index.js",
   "repository": {
