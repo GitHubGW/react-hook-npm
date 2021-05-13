@@ -1,6 +1,6 @@
 {
   "name": "@gitgw/use-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook to get X/Y coordinates of current position of the scroll.",
   "main": "index.js",
   "repository": {
