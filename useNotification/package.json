@@ -1,0 +1,24 @@
+{
+  "name": "@gitgw/use-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubGW/react-hook-npm.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hooks",
+    "notification",
+    "usenotification"
+  ],
+  "author": "GW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitHubGW/react-hook-npm/issues"
+  },
+  "homepage": "https://github.com/GitHubGW/react-hook-npm#readme",
+  "dependencies": {}
+}
