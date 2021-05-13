@@ -1,0 +1,28 @@
+{
+  "name": "@gitgw/use-prevent-leave",
+  "version": "1.0.0",
+  "description": "React Hook to prompt the user for confirmation before leaving the page.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubGW/react-hook-npm.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hooks",
+    "preventleave",
+    "usepreventleave",
+    "beforeunload"
+  ],
+  "author": "GW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitHubGW/react-hook-npm/issues"
+  },
+  "homepage": "https://github.com/GitHubGW/react-hook-npm#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
