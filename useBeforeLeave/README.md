@@ -3,10 +3,14 @@ React Hook to execute a function when the mouse leaves the page. Useful to show 
 
 ## Installation
 ### npm
-```npm i @gitgw/use-before-leave```
+```
+npm i @gitgw/use-before-leave
+```
 
 ### yarn
-```yarn add @gitgw/use-before-leave```
+```
+yarn add @gitgw/use-before-leave
+```
 
 ## Usage
 ```javascript
