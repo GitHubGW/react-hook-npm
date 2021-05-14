@@ -3,10 +3,14 @@ React Hook to fade in any element.
 
 ## Installation
 ### npm
-```npm i @gitgw/use-fade-in```
+```
+npm i @gitgw/use-fade-in
+```
 
 ### yarn
-```yarn add @gitgw/use-fade-in```
+```
+yarn add @gitgw/use-fade-in
+```
 
 ## Usage
 ```javascript
