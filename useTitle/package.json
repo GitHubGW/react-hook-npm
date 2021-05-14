@@ -1,6 +1,6 @@
 {
   "name": "@gitgw/use-title",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React Hook to update your document's title.",
   "main": "index.js",
   "repository": {
