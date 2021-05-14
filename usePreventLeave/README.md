@@ -3,10 +3,14 @@ React Hook to prompt the user for confirmation before leaving the page.
 
 ## Installation
 ### npm
-```npm i @gitgw/use-prevent-leave```
+```
+npm i @gitgw/use-prevent-leave
+```
 
 ### yarn
-```yarn add @gitgw/use-prevent-leave```
+```
+yarn add @gitgw/use-prevent-leave
+```
 
 ## Usage
 ```javascript
