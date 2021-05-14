@@ -3,10 +3,14 @@ React Hook to prompt a confirmation before executing a function.
 
 ## Installation
 ### npm
-```npm i @gitgw/use-confirm```
+```
+npm i @gitgw/use-confirm
+```
 
 ### yarn
-```yarn add @gitgw/use-confirm```
+```
+yarn add @gitgw/use-confirm
+```
 
 ## Usage
 ```javascript
