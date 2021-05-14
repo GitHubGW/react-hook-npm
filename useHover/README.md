@@ -3,10 +3,14 @@ React Hook to detect a hover on an any React Element.
 
 ## Installation
 ### npm
-```npm i @gitgw/use-hover```
+```
+npm i @gitgw/use-hover
+```
 
 ### yarn
-```yarn add @gitgw/use-hover```
+```
+yarn add @gitgw/use-hover
+```
 
 ## Usage
 ```javascript

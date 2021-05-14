@@ -3,10 +3,14 @@ React Hook to make any element go Fullscreen.
 
 ## Installation
 ### npm
-```npm i @gitgw/use-fullscreen```
+```
+npm i @gitgw/use-fullscreen
+```
 
 ### yarn
-```yarn add @gitgw/use-fullscreen```
+```
+yarn add @gitgw/use-fullscreen
+```
 
 ## Usage
 ```javascript

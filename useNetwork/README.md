@@ -3,10 +3,14 @@ React Hook to listen when the user goes online or offline.
 
 ## Installation
 ### npm
-```npm i @gitgw/use-network```
+```
+npm i @gitgw/use-network
+```
 
 ### yarn
-```yarn add @gitgw/use-network```
+```
+yarn add @gitgw/use-network
+```
 
 ## Usage
 ```javascript

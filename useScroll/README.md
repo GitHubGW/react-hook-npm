@@ -3,10 +3,14 @@ React Hook to get X/Y coordinates of current position of the scroll.
 
 ## Installation
 ### npm
-```npm i @gitgw/use-scroll```
+```
+npm i @gitgw/use-scroll
+```
 
 ### yarn
-```yarn add @gitgw/use-scroll```
+```
+yarn add @gitgw/use-scroll
+```
 
 ## Usage
 ```javascript
