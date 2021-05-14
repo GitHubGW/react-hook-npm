@@ -1,6 +1,6 @@
 {
   "name": "@gitgw/use-input",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "React Hook to check the number of characters in input.",
   "main": "index.js",
   "repository": {
