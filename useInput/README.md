@@ -20,7 +20,7 @@ yarn add @gitgw/use-input
 
 ```javascript
 import React from "react";
-import useTitle from "@gitgw/use-input";
+import useInput from "@gitgw/use-input";
 
 function App() {
 
