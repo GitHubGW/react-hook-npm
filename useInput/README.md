@@ -1,6 +1,6 @@
 # @gitgw/use-input
 
-React Hook to update your document's title.
+React Hook that checks the length of the input.
 
 ## Installation
 
