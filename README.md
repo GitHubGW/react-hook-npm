@@ -1,4 +1,4 @@
-# React-Hook-NPM
+# React-Hooks-NPM
 
 ## 🔗 Demo
 
